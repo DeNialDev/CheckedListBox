@@ -1,0 +1,8 @@
+C:\Users\danie\source\repos\Check\Check\obj\Debug\Check.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Check\Check\obj\Debug\Check.Properties.Resources.resources
+C:\Users\danie\source\repos\Check\Check\obj\Debug\Check.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\Check\Check\bin\Debug\Check.exe.config
+C:\Users\danie\source\repos\Check\Check\bin\Debug\Check.exe
+C:\Users\danie\source\repos\Check\Check\bin\Debug\Check.pdb
+C:\Users\danie\source\repos\Check\Check\obj\Debug\Check.exe
+C:\Users\danie\source\repos\Check\Check\obj\Debug\Check.pdb
